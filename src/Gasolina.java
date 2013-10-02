@@ -12,7 +12,7 @@ public class Gasolina {
         
         while(soma > 0)
         if(gasolina == 10){
-            JOptionPane.showMessageDialog(null,"Você vai andar 200,00 R$");
+            JOptionPane.showMessageDialog(null,"Você vai andar 200,00  R$");
             System.out.println("Você vai andar 200,00 R$");
         }
     }
