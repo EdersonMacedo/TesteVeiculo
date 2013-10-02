@@ -14,6 +14,9 @@ public class Gasolina {
         if(gasolina == 10){
             JOptionPane.showMessageDialog(null,"Você vai andar 200,00 R$");
             System.out.println("Você vai andar 200,00 R$");
+        }else if (gasolina < 10 && gasolina > 10){
+            JOptionPane.showMessageDialog(null,"AA pegadinha do malandro!!!!!");
+            System.out.println("AA pegadinha do malandro!!!!!");
         }
     }
 }
